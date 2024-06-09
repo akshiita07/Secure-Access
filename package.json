@@ -1,0 +1,18 @@
+{
+  "name": "secrets-project-using-node",
+  "version": "1.0.0",
+  "description": "You will be let in only if you know the secret password!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshita Pathak",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "path": "^0.12.7",
+    "url": "^0.11.3"
+  }
+}
